@@ -266,7 +266,7 @@
 //     console.log(`Loop: ${a}`);
 // }
 
-// console.log('Global Scope: ', a, b, c);
+console.log('Global Scope: ', a, b, c);
 
 
 
